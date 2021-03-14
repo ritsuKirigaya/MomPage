@@ -1,0 +1,78 @@
+page-catalog{
+    name:=: labl
+    title:=: Labiales
+}
+
+page-item{
+    title:=: Base
+    url:=: https://blacknbeauty.com/wp-content/uploads/2019/10/MISS-ROSE-Brand-Face-Makeup-Foundation-Liquid-Concealer-Oil-control-Face-Base-Contour-Skin-Pure-Natural-1.jpg
+    content:=: BlacknBeauty, Miss Rose 30ml Purely Natural Liquid Foundation Base
+}
+
+home-carousel{
+    url:=: https://www.viatrading.com/sku/COVER/wholesale-assorted-case-packs-of-new-overstock-cover-girl-cosmetics-16.jpeg
+    title:=: 
+    content:=: 
+    className:=: 
+    url:=: https://www.viatrading.com/sku/COVER/wholesale-assorted-case-packs-of-new-overstock-cover-girl-cosmetics-16.jpeg
+    title:=: 
+    content:=: 
+    className:=: 
+}
+
+home-fcrd-text{
+    title:=: Destacados
+    content:=: 
+    className:=: 
+}
+
+home-fcrd-rack{
+    title:=: DESIGNER: MEDIA MAKEUP
+    url:=: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOrf0XarW5aFgi3irCusef8JN7i8ywR4cdaA&usqp=CAU
+    content:=: A Gift Box filled with Christmas Cheer! Inside: A voucher for a Makeover with a Pro Makeup Artist and $100 worth of products of their choice (worth $200) Have a note inside note customised for that special someone.
+    title:=: DESIGNER: MEDIA MAKEUP
+    url:=: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOrf0XarW5aFgi3irCusef8JN7i8ywR4cdaA&usqp=CAU
+    content:=: A Gift Box filled with Christmas Cheer! Inside: A voucher for a Makeover with a Pro Makeup Artist and $100 worth of products of their choice (worth $200) Have a note inside note customised for that special someone.
+    title:=: DESIGNER: MEDIA MAKEUP
+    url:=: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOrf0XarW5aFgi3irCusef8JN7i8ywR4cdaA&usqp=CAU
+    content:=: A Gift Box filled with Christmas Cheer! Inside: A voucher for a Makeover with a Pro Makeup Artist and $100 worth of products of their choice (worth $200) Have a note inside note customised for that special someone.
+    title:=: DESIGNER: MEDIA MAKEUP
+    url:=: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOrf0XarW5aFgi3irCusef8JN7i8ywR4cdaA&usqp=CAU
+    content:=: A Gift Box filled with Christmas Cheer! Inside: A voucher for a Makeover with a Pro Makeup Artist and $100 worth of products of their choice (worth $200) Have a note inside note customised for that special someone.
+    title:=: DESIGNER: MEDIA MAKEUP
+    url:=: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOrf0XarW5aFgi3irCusef8JN7i8ywR4cdaA&usqp=CAU
+    content:=: A Gift Box filled with Christmas Cheer! Inside: A voucher for a Makeover with a Pro Makeup Artist and $100 worth of products of their choice (worth $200) Have a note inside note customised for that special someone.
+    title:=: DESIGNER: MEDIA MAKEUP
+    url:=: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOrf0XarW5aFgi3irCusef8JN7i8ywR4cdaA&usqp=CAU
+    content:=: A Gift Box filled with Christmas Cheer! Inside: A voucher for a Makeover with a Pro Makeup Artist and $100 worth of products of their choice (worth $200) Have a note inside note customised for that special someone.
+    title:=: DESIGNER: MEDIA MAKEUP
+    url:=: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOrf0XarW5aFgi3irCusef8JN7i8ywR4cdaA&usqp=CAU
+    content:=: A Gift Box filled with Christmas Cheer! Inside: A voucher for a Makeover with a Pro Makeup Artist and $100 worth of products of their choice (worth $200) Have a note inside note customised for that special someone.
+    className:=:
+}
+
+home-fcrd-text{
+    title:=: Destacados
+    content:=: Those sound to me like perfectly fine English. They would be perfectly fine using although as well. That, to me, feels like interchangeability, pure and simple. In fact, I can think of no examples in which though cannot be used interchangeably with although. Though your mileage may vary.
+    className:=: 
+}
+
+home-fcrd-carousel{
+    url:=: https://www.viatrading.com/sku/COVER/wholesale-assorted-case-packs-of-new-overstock-cover-girl-cosmetics-16.jpeg
+    url:=: https://www.viatrading.com/sku/COVER/wholesale-assorted-case-packs-of-new-overstock-cover-girl-cosmetics-16.jpeg
+    url:=: https://www.viatrading.com/sku/COVER/wholesale-assorted-case-packs-of-new-overstock-cover-girl-cosmetics-16.jpeg
+    title:=: DESIGNER: MEDIA MAKEUP
+    content:=: A Gift Box filled with Christmas Cheer! Inside: A voucher for a Makeover with a Pro Makeup Artist and $100 worth of products of their choice (worth $200) Have a note inside note customised for that special someone.
+    className:=: 
+}
+
+home-fcrd{
+    title:=: DESIGNER: MEDIA MAKEUP
+    url:=: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOrf0XarW5aFgi3irCusef8JN7i8ywR4cdaA&usqp=CAU
+    content:=: A Gift Box filled with Christmas Cheer! Inside: A voucher for a Makeover with a Pro Makeup Artist and $100 worth of products of their choice (worth $200) Have a note inside note customised for that special someone.
+    className:=:
+    title:=: DESIGNER: MEDIA MAKEUP
+    url:=: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOrf0XarW5aFgi3irCusef8JN7i8ywR4cdaA&usqp=CAU
+    content:=: A Gift Box filled with Christmas Cheer! Inside: A voucher for a Makeover with a Pro Makeup Artist and $100 worth of products of their choice (worth $200) Have a note inside note customised for that special someone.
+    className:=:
+}
